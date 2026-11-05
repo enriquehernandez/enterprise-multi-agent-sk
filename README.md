@@ -1,5 +1,9 @@
 # 🧠 Enterprise Multi-Agent System with Semantic Kernel
 
+[![codecov](https://codecov.io/github/enriquehernandez/enterprise-multi-agent-sk/graph/badge.svg?token=CLI17HFWHE)](https://codecov.io/github/enriquehernandez/enterprise-multi-agent-sk)
+
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-Provider--Agnostic-6467F2?style=for-the-badge) ![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen?style=for-the-badge)
+
 Sistema multi-agente de nivel empresarial construido con **Microsoft Semantic Kernel** y **OpenRouter** como proveedor de IA agnóstico. Implementa el patrón **Group Chat** para orquestar la colaboración entre un agente **Writer** y un **Reviewer**.
 
 ## ✨ Características
